@@ -2,7 +2,7 @@
 A file pack for the Minecraft java port to Quest
 
 
-An assortment of mods and texture packs for [Questcraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
+An assortment of mods and texture packs for [QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)
 
 Just drag and drop the file into .minecraft and overwrite anything needed,
 Dont put the settings too high or may crash,
